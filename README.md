@@ -1,7 +1,7 @@
 # assignmentTribute
 Tribute Geekster assignment
 
-Hosted Link:
+Hosted Link: https://ankit64s.github.io/assignmentTribute/
 
 Snapshots:
 
